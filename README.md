@@ -48,7 +48,7 @@ sudo apt install cmake
 ## 安装
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-auto-edit.git
+git clone https://github.com/jiawen-w/movie-auto-edit.git
 cd movie-auto-edit
 
 python -m venv venv
